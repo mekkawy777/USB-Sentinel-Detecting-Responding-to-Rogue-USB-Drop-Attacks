@@ -1,0 +1,7 @@
+PyQt6
+Flask
+requests
+psutil
+cryptography
+yara-python
+pywin32
