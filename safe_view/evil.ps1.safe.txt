@@ -1,0 +1,5 @@
+# USB Sentinel Test File
+Invoke-Expression
+DownloadString
+FromBase64String
+
